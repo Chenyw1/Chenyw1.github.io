@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yiwei Chen / Site Title"
+title                    : "Yiwei Chen's Personal HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
