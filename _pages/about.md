@@ -18,4 +18,4 @@ My research interests include:
 - Smart Sensing
 
 ### Contact Information
-- Email: ywchen@hnu.edu.cn
+- [Email]: (ywchen@hnu.edu.cn)
