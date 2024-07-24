@@ -9,8 +9,8 @@ redirect_from:
 I am Yiwei Chen, a Master's student at the College of Information Science and Engineering, Hunan University. My research focuses on the Internet of Things (IoT) and intelligent sensing.
 
 ### Education Background
-- Master's Student, College of Information Science and Engineering, Hunan University, Computer Science and Technology, 2023-present
-- Bachelor's Degree, College of Information Science and Engineering, Hunan University, Software Engineering, 2019-2023
+- Master's Student, College of Computer Science and Electronic Engineering, Hunan University, Computer Science and Technology, 2023-present
+- Bachelor's Degree, College of Computer Science and Electronic Engineering, Hunan University, Software Engineering, 2019-2023
 
 ### Research Interests
 My research interests include:
